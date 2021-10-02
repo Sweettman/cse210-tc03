@@ -1,5 +1,4 @@
 
-def main():
-  print("Welcome to our collaborative program.")
+import LeBaron
 
-main()
+print(LeBaron.welcom)
