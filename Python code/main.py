@@ -4,7 +4,7 @@ def main():
   l = LeBaron
   w = Wilde
   
-  print("Welcome to our collaborative program.")
+  print("Welcome to our collaborative program")
   
   print(w)
   print(l)
